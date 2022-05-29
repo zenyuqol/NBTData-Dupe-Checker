@@ -17,9 +17,6 @@ Lots of people have gotten wiped, but with this mod, you can prevent that. You c
 ## Cons
 It is not compatible with Skytils at this current time. Also, the feature to check if other player's items are duped is currently not working due to Hypixel's recent API changes.
 
-## Hypixel Rules
-This mod follows Hypixel's rules in our interpretation. Similar to most Skyblock mods, it is in the 'gray area'. This means use at your own risk.
-
 ## Config
 O - Opens Dupe Checker's config.
 
