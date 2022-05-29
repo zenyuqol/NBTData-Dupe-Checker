@@ -3,7 +3,7 @@ NBTData-Dupe-Checker
 This mod checks NBT data to look for possibly duped items and warn you 
 
 ## Download
-To download the mod you must simply click [HERE](https://www.mediafire.com/file/n22zwlj59dnzxqt/NBTData-DupeChecker-1.6.jar/file) .The mod installs dependencies when the game is first launched.
+To download the mod you must simply click [HERE](https://www.mediafire.com/file/n22zwlj59dnzxqt/NBTData-DupeChecker-1.6.jar/file). The mod installs dependencies when the game is first launched.
 
 ## Information
 A simple but useful Hypixel Skyblock mod for forge 1.8.9 that checks NBT data for duped items. If duped items appear, it will darken the background of the item.
